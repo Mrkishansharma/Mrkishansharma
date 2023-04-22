@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-<!--
-**Mrkishansharma/Mrkishansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📫 How to reach me: kishansharma6377@gmail.com
 
