@@ -46,14 +46,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/) 
 
+<a href="https://mrkishansharma.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+</a>
 
 [![](https://visitcount.itsvg.in/api?id=Mrkishansharma&icon=5&color=0)](https://visitcount.itsvg.in)
 
- <a href="https://mrkishansharma.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-    </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/)
+
+
 
     
 
@@ -66,8 +68,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrkishansharma&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mrkishansharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
