@@ -20,20 +20,16 @@
 
 
 
-## 🌐 Socials:
-
-<a href="https://mrkishansharma.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-</a> &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/">
-      <img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
-[![](https://visitcount.itsvg.in/api?id=Mrkishansharma&icon=5&color=0)](https://visitcount.itsvg.in)
-
-
-
-
+<h1 align="center"> 🌐 Socials: </h1>
+<p align="center">
+    <a href="https://mrkishansharma.github.io/">
+          <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+    </a> &nbsp;
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/">
+          <img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a>
+    
+</p>
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -81,6 +77,9 @@
 <h1 align="center"> 🏆 GitHub Trophies:</h1>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Mrkishansharma&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="kishan" />
+    
+[![](https://visitcount.itsvg.in/api?id=Mrkishansharma&icon=5&color=0)](https://visitcount.itsvg.in)
+    
 </p>
 
 
