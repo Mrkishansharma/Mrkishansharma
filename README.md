@@ -1,11 +1,9 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    Hi &nbsp;
     I'm Kishan Sharma
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
-
 
 
 <!----------------------------------- About Section ------------------------------------>
@@ -14,7 +12,27 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
+
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
+
 <br>
+
+
+
+
+## 🌐 Socials:
+
+<a href="https://mrkishansharma.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+</a> &nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/">
+      <img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=Mrkishansharma&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 
 
@@ -22,7 +40,7 @@
 
 <h2><i>Tech Stack</i></h2>
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -44,29 +62,26 @@
 
 
 
-
-## 🌐 Socials:
-
-<a href="https://mrkishansharma.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-</a>
-
-[![](https://visitcount.itsvg.in/api?id=Mrkishansharma&icon=5&color=0)](https://visitcount.itsvg.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishan-sharma6377/)
-
-
-
     
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mrkishansharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center"> 📊 GitHub Stats:</h1>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kishan" />
+    <br />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="kishan" />
+    <br />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkishansharma&theme=dark&hide_border=false" alt="kishan" />
+    <br />
+    <br />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrkishansharma&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center"> 🏆 GitHub Trophies:</h1>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mrkishansharma&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="kishan" />
+</p>
 
 
 
