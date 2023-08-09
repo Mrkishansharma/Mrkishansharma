@@ -62,8 +62,8 @@
 
 <h1 align="center"> 📊 GitHub Stats:</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kishan" />
-    <br />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="kishan" />
+    <br />  -->
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=Mrkishansharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="kishan" />
     <br />
